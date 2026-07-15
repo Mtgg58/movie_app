@@ -17,6 +17,10 @@ Interfaz "Dark Theme" con acentos en color turquesa (#2EFEEA), optimizada para l
 # Enlace de Descarga (APK)
 Hemos generado un archivo ejecutable .apk para probar la aplicacion en dispositivos Android, se recomienda Android 11 o superior.
 
+<<<<<<< HEAD
+=======
+(PEGA_AQUÍ_TU_ENLACE_DE_DRIVE)
+>>>>>>> 269fe5518e7a502efa8a0e4ff0d82b48cb782be9
 
 Nota: Habilitar la instalacion desde origenes desconocidos en tu dispositivo para instalar el APK correctamente.
 
@@ -24,4 +28,8 @@ Nota: Habilitar la instalacion desde origenes desconocidos en tu dispositivo par
 
 Adrian Andrade: Estructura y Vistas Principales
 
+<<<<<<< HEAD
 José Gomez: Vistas Secundarias y Documentación
+=======
+José Gomez: Vistas Secundarias y Documentación
+>>>>>>> 269fe5518e7a502efa8a0e4ff0d82b48cb782be9
